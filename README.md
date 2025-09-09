@@ -1,11 +1,11 @@
 # Olá, seja Bem Vindo ao meu perfil!
 
 ## Um pouco sobre mim 👋
-- Tenho 24 anos e moro em Londrina - PR
+- Tenho 25 anos e moro em Londrina - PR
 
 - Sou formado em Ciência da Computação pela [UEL](https://portal.uel.br/home/)
   
-- Trabalho hoje com Desenvolvimento Web
+- Trabalho hoje como Dev Full Stack
   
 - Estudo e aprendo novas tecnologias diariamente
 
